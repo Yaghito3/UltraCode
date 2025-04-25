@@ -1,5 +1,3 @@
-MIT License
-
 Copyright (c) 2025 Yaghito3
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -9,11 +7,13 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-If you republish this software, you are required to add credits stating:
-"Original GitHub Repository from Yaghito3".
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+   
+2. Attribution is required: If you use, modify, or distribute this software,
+   you must give appropriate credit, provide a link to the original repository,
+   and indicate if changes were made. You may do so in any reasonable manner,
+   but not in any way that suggests the licensor endorses you or your use.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
