@@ -1,0 +1,16 @@
+{
+  "name": "ultracode",
+  "version": "Alpha 1",
+  "description": "Un editor di codice ultra moderno.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Yaghito3",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^25.0.0",
+    "monaco-editor": "^0.39.0"
+  },
+  "devDependencies": {}
+}
