@@ -1,0 +1,44 @@
+{
+  "name": "desktop-release-manager",
+  "version": "1.0.0",
+  "description": "An application to manage and install software releases.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "package": "electron-builder --win --x64"
+  },
+  "keywords": [
+    "electron",
+    "react",
+    "release",
+    "manager"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^latest",
+    "react": "^latest",
+    "react-dom": "^latest"
+  },
+  "devDependencies": {
+    "typescript": "^latest",
+    "electron-builder": "^latest",
+    "ts-loader": "^latest",
+    "webpack": "^latest",
+    "webpack-cli": "^latest",
+    "webpack-dev-server": "^latest"
+  },
+  "build": {
+    "appId": "com.example.desktop-releasemanager",
+    "productName": "Desktop Release Manager",
+    "files": [
+      "dist/**/*",
+      "src/**/*",
+      "public/**/*"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    }
+  }
+}
